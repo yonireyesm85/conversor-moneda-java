@@ -63,10 +63,9 @@ Este proyecto consiste en un conversor de monedas basado en consola que:
 
 ## 🚀 Cómo ejecutar el proyecto
 
-1. Clona el repositorio:
+1. Clona el repositorio
 
-```bash
-git clone https://github.com/yonireyesm85/conversor-moneda-java.git
+ git clone https://github.com/yonireyesm85/conversor-moneda-java.git
 
 2. Abre el proyecto con IntelliJ IDEA.
 
@@ -77,6 +76,7 @@ git clone https://github.com/yonireyesm85/conversor-moneda-java.git
 5. Ejecuta el archivo Principal.java
 
 ---
+
 
 ## 📝 Notas adicionales
 
@@ -89,7 +89,9 @@ git clone https://github.com/yonireyesm85/conversor-moneda-java.git
 ## 👨‍💻 Diseñado por
 
 **Yhoni Reyes**  
-### yhoni-reyes ![logo](assets/bender-el-tremendo.png)
+### yhoni-reyes 
+<img src="src/assets/bender-el-tremendo.png" alt="Logo de Yhoni" width="120"/>
+
 Desarrollador Back-End en formación – Alura Latam + Oracle ONE
 
 - 🐙 GitHub: [@yonireyesm85](https://github.com/yonireyesm85)  
